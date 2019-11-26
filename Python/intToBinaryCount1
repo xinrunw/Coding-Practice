@@ -1,0 +1,2 @@
+temp = bin(int(input()))
+print(temp.count('1'))
